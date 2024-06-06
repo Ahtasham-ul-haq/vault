@@ -49,7 +49,6 @@ const BankCard = ({
           className="absolute top-0 left-0"
         />
       </Link>
-      {/* COPY */}
     </div>
   );
 };
